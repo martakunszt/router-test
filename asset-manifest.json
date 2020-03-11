@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-router-test/static/css/main.0b0d82ae.chunk.css",
+    "main.js": "/react-router-test/static/js/main.18405dc5.chunk.js",
+    "main.js.map": "/react-router-test/static/js/main.18405dc5.chunk.js.map",
+    "runtime-main.js": "/react-router-test/static/js/runtime-main.aea08c21.js",
+    "runtime-main.js.map": "/react-router-test/static/js/runtime-main.aea08c21.js.map",
+    "static/js/2.a55546d7.chunk.js": "/react-router-test/static/js/2.a55546d7.chunk.js",
+    "static/js/2.a55546d7.chunk.js.map": "/react-router-test/static/js/2.a55546d7.chunk.js.map",
+    "index.html": "/react-router-test/index.html",
+    "precache-manifest.2ddeeca4d15ef9900d372bfb0ee375fe.js": "/react-router-test/precache-manifest.2ddeeca4d15ef9900d372bfb0ee375fe.js",
+    "service-worker.js": "/react-router-test/service-worker.js",
+    "static/css/main.0b0d82ae.chunk.css.map": "/react-router-test/static/css/main.0b0d82ae.chunk.css.map",
+    "static/js/2.a55546d7.chunk.js.LICENSE.txt": "/react-router-test/static/js/2.a55546d7.chunk.js.LICENSE.txt",
+    "static/media/deidamia.jpg": "/react-router-test/static/media/deidamia.1c64ea5c.jpg",
+    "static/media/img2.jpg": "/react-router-test/static/media/img2.9986f436.jpg",
+    "static/media/img3.jpg": "/react-router-test/static/media/img3.04058f9f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aea08c21.js",
+    "static/js/2.a55546d7.chunk.js",
+    "static/css/main.0b0d82ae.chunk.css",
+    "static/js/main.18405dc5.chunk.js"
+  ]
+}
